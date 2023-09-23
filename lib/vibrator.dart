@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ringtone_player/flutter_ringtone_player.dart';
 import 'package:vibration/vibration.dart';
-import 'package:flutter/services.dart';
 
 class VibratorScreen extends StatefulWidget {
   const VibratorScreen({super.key});
